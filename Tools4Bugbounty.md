@@ -1,5 +1,10 @@
 # Best ever Tools 🧰 for Bug Bounty Hunters by bughunter **Lohitaksh**
 
+### Good write-ups related to bug bounty
+https://pentester.land/list-of-bug-bounty-writeups.html
+
+https://webs3c.com
+
 →Amass
 →Sublister
 →Gauplus
